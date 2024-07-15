@@ -1,15 +1,14 @@
-### Title: Exploring Abstract Algebra Concepts through Python: A Computational Approach
+#### Title: Exploring Abstract Algebra Concepts through Python: A Computational Approach
 
-### <span class="smallcaps">UNIVERSITÀ DELLA SVIZZERA ITALIANA</span>
+#### <span class="smallcaps">UNIVERSITÀ DELLA SVIZZERA ITALIANA</span>
 
-### FACULTY OF COMPUTER SCIENCE
+#### FACULTY OF COMPUTER SCIENCE
 
-### Master in Artificial Intelligence
+#### Master in Artificial Intelligence
 
-### Topic: Abstract Algebra \[2014\]
-
-### Auther: Heider Jeffer
-### instructor: Dean Prof. Mehdi Jazayeri
+#### Topic: Abstract Algebra \[2014\]
+#### Auther: Heider Jeffer
+#### Instructor: Dean Prof. Mehdi Jazayeri
 
 
 
