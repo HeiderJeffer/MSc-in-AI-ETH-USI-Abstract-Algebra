@@ -1,10 +1,12 @@
+<body>
+<img src = "https://github-vistors-counter.onrender.com/github?username=https://github.com/HeiderJeffer/MSc-in-AI-ETH-USI-Abstract-Algebra/" alt = "Visitors-Counter"/>
+</body>
+
 #### Title: Exploring Abstract Algebra Concepts through Python: A Computational Approach
 
-#### <span class="smallcaps">UNIVERSITÀ DELLA SVIZZERA ITALIANA</span>
+#### <span class="smallcaps">ETH-Zurich and UNIVERSITÀ DELLA SVIZZERA ITALIANA</span>
 
-#### FACULTY OF COMPUTER SCIENCE
-
-#### Master in Artificial Intelligence
+#### FACULTY OF COMPUTER SCIENCE - Master in Artificial Intelligence
 
 #### Topic: Abstract Algebra \[2014\]
 #### Auther: Heider Jeffer
